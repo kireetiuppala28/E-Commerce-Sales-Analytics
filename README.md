@@ -128,11 +128,55 @@ The dashboard provides interactive analysis of:
 ## 📂 Repository Structure
 
 ```text
+## 📂 Repository Structure
+
+```text
 E-Commerce-Sales-Analytics/
 │
 ├── data/
+│   └── ecommerce_sales_cleaned.csv
+│
 ├── documentation/
+│   └── Ecommerce Sales Analytics Document.docx
+│
 ├── powerbi/
+│   └── ecommerce_sales_dashboard.pbix
+│
 ├── python/
+│   └── data_cleaning.ipynb
+│
 ├── screenshots/
+│   ├── Executive_Dashboard.png
+│   └── Customer_Product_Dashboard.png
+│
 └── sql/
+    └── ecommerce_sales_analysis.sql
+
+## 💡 Business Recommendations
+
+- Focus inventory and marketing on high-performing products.
+- Develop loyalty strategies for high-value customers.
+- Investigate cancelled and returned orders.
+- Use targeted rather than broad discounting.
+- Optimize popular payment methods such as UPI and Cash on Delivery.
+
+## 👨‍💻 Skills Demonstrated
+
+- Python
+- Pandas
+- SQL
+- MySQL
+- Power BI
+- DAX
+- Data Cleaning
+- Data Visualization
+- Business Intelligence
+- Dashboard Development
+- KPI Development
+- Business Analysis
+
+## 📌 Conclusion
+
+This project demonstrates an end-to-end Data Analyst workflow, from raw data cleaning and SQL analysis to Power BI visualization and business recommendations.
+
+The final dashboard provides an interactive view of sales, products, customers, regions, orders, payment methods, and discounts to support data-driven business decisions.

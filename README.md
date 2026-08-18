@@ -153,6 +153,7 @@ E-Commerce-Sales-Analytics/
 │
 └── sql/
     └── ecommerce_sales_analysis.sql
+```
 
 ## 💡 Business Recommendations
 

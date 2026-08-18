@@ -59,3 +59,80 @@ Power BI
 Interactive Dashboard
         ↓
 Business Insights & Recommendations
+
+
+## 🧹 Data Cleaning
+
+The raw e-commerce dataset contained duplicate records, missing values, inconsistent dates, and data-quality issues.
+
+The cleaning process included:
+
+- Removing duplicate records
+- Handling missing values
+- Standardizing dates
+- Validating numerical fields
+- Creating date-related features
+- Creating Age_Group
+- Performing final data-quality checks
+
+## 📊 Dataset Summary
+
+- Rows: 9,940
+- Columns: 23
+- Duplicate rows: 0
+- Missing values: 0
+- Unique Customers: 1,796
+
+## 📈 Key KPIs
+
+| KPI | Value |
+|---|---:|
+| Total Revenue | ₹85.72M |
+| Total Orders | 9,940 |
+| Total Customers | 1,796 |
+| Average Order Value | ~₹8.62K |
+| Delivery Rate | 67.14% |
+
+## 🏆 Key Business Insights
+
+- Electronics is the highest-revenue category with ₹55.98M.
+- Laptop is the top individual product with ₹29.89M revenue.
+- Tamil Nadu is the highest-revenue state with ₹9.55M.
+- Delivered orders account for the majority of orders.
+- UPI and Cash on Delivery are major payment methods.
+- Revenue is highest at the 0% discount level.
+
+## 📊 Power BI Dashboard
+
+The dashboard provides interactive analysis of:
+
+- Sales performance
+- Product performance
+- Customer insights
+- Regional performance
+- Order status
+- Payment methods
+- Discount analysis
+- Monthly revenue trends
+
+## 📸 Dashboard Screenshots
+
+### Executive Dashboard
+
+![Executive Dashboard](screenshots/Executive_Dashboard.png)
+
+### Product & Customer Dashboard
+
+![Customer Product Dashboard](screenshots/Customer_Product_Dashboard.png)
+
+## 📂 Repository Structure
+
+```text
+E-Commerce-Sales-Analytics/
+│
+├── data/
+├── documentation/
+├── powerbi/
+├── python/
+├── screenshots/
+└── sql/

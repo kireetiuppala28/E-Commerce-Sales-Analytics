@@ -40,7 +40,8 @@ The main objectives of this project are:
 ---
 
 ## 🔄 Project Workflow
-'''
+
+```text
 Raw E-Commerce Data
         ↓
 Data Cleaning & Validation
@@ -58,4 +59,3 @@ Power BI
 Interactive Dashboard
         ↓
 Business Insights & Recommendations
-'''
